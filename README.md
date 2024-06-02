@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Gaurav Arvind Singh
 
-<!--
-**gauravasingh/gauravasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a seasoned Data Scientist with a strong data analysis, machine learning and statistical modeling background. I love transforming data into actionable insights and creating models that help solve real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: Python, R, SQL
+- **Libraries & Frameworks**: pandas, numpy, scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn
+- **Data Visualization**: Tableau, Power BI, Plotly
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Big Data Technologies**: Hadoop, Spark
+- **Others**: Git, Docker, AWS, Azure
+
+
+## 📊 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravasingh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravasingh&layout=compact&theme=radical)
+
+
+## 📫 Get in Touch
+
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/gauravasingh1)
+- **Twitter**: [Your Twitter Profile](https://x.com/GauravS03737422)
+- **Email**: gauravasingh8014@gmail.com
+
+
+## 🌱 What I’m currently learning
+
+- Deep Learning with TensorFlow and PyTorch
+- Advanced SQL for Data Science
+- Data Engineering on Azure
+
+
