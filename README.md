@@ -20,9 +20,9 @@ I am a seasoned Data Scientist with a strong data analysis, machine learning and
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/gauravasingh1)
-- **Twitter**: [Twitter Profile](https://x.com/GauravS03737422)
-- **Email**: gauravasingh8014@gmail.com
+- [LinkedIn Profile](https://linkedin.com/in/gauravasingh1)
+- [Twitter Profile](https://x.com/GauravS03737422)
+- **Email**: gauravarvindsingh22@gmail.com
 
 
 ## 🌱 What I’m currently learning
